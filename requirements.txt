@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+faker
+kafka-python
+snowflake-connector-python
+python-dotenv
+sqlalchemy
+jupyter
+ipykernel
