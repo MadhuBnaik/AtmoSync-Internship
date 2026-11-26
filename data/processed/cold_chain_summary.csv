@@ -1,0 +1,4 @@
+Delivery_Status,average_temperature,average_spoilage_risk,shipment_count
+At_Risk,4.803,0.322,1890
+Delayed,7.171,0.55,1260
+On_Time,3.428,0.194,3850
