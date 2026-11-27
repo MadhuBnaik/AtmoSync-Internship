@@ -1,0 +1,4 @@
+Delivery_Status,avg_freshness,avg_transit_delay,avg_energy,avg_cost,shipments
+At_Risk,90.89,1.27,38.23,701.17,1890
+Delayed,87.81,1.49,39.12,763.15,1260
+On_Time,92.89,0.91,36.9,657.06,3850
